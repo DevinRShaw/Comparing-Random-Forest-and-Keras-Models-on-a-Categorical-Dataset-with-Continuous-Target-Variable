@@ -1,2 +1,2 @@
 # Comparing-Random-Forest-and-Keras-Models-on-a-Categorical-Dataset-with-Continuous-Target-Variable
-Explore the efficacy of random forest and Keras neural network models on a dataset with categorical features and a continuous target. Compare performance and accuracy using Python. 
+This notebook compares a scikit-learn random forest model to a keras neural network on their ability to accurately preform regression on categorial features with a continous target. The notebook shows how features were created and adjusted for the models and shows scores of the models' performance.
